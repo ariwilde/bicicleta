@@ -1,10 +1,6 @@
 cualquier cosa
 otra cosa y una cosa mas
 tercera cosa
-<<<<<<< HEAD
-oaoaoao
-=======
-segunda rama
-cambios
->>>>>>> 
+
+
 
