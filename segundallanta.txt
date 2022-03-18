@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 primer linea en text 2
 kbkjsbvks
 =======
 primer linea en text 2nvklfnnvlb
+>>>>>>> segunda
+=======
+primer linea en text 2nvklfnnvlb
+segunda en segunda
 >>>>>>> segunda
